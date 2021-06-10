@@ -1435,9 +1435,9 @@ button:focus {
   .hero-img {
     padding-top:0px;
   }
-  .portfolio_box {
-    margin-bottom: 35px;
-}
+  #portfolio,#project-port{
+    display:none;
+  }
   }
 .generic-banner .generic-banner-content h2 {
   line-height: 1.2em;
