@@ -138,6 +138,9 @@ button:focus {
 
 /* End Main Title Area css
 ============================================================================================ */
+.hero-img {
+  padding-top: 197px;
+}
 /* Start Gradient Area css
 ============================================================================================ */
 .gradient-bg, .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link, .blog_right_sidebar .widget_title, .blog_right_sidebar .newsletter_widget .bbtns, .blog_right_sidebar .tag_cloud_widget ul li a:hover, .blog-pagination .page-item.active .page-link, .blog-pagination .page-link:hover, .comments-area .btn-reply:hover {
@@ -1428,6 +1431,9 @@ button:focus {
   .d-center {
     display:flex;
     justify-content:center;
+  }
+  .hero-img {
+    padding-top:0px;
   }
   }
 .generic-banner .generic-banner-content h2 {
