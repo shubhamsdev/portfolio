@@ -1418,7 +1418,18 @@ button:focus {
 
 @media (max-width: 767.98px) {
   .generic-banner .height {
-    height: 400px; } }
+    height: 400px; } 
+  .m-100 {
+    display:block;      
+  }
+  .section_gap_bottom{
+    padding-bottom: 200px;
+  }
+  .d-center {
+    display:flex;
+    justify-content:center;
+  }
+  }
 .generic-banner .generic-banner-content h2 {
   line-height: 1.2em;
   margin-bottom: 20px; }
